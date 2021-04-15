@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on Suchir Gupta</title>
-    <link>https://suchirg.github.io/tutorials/</link>
+    <link>https://suchirg.github.io/suchirg.github.io-home/tutorials/</link>
     <description>Recent content in Tutorials on Suchir Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://suchirg.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://suchirg.github.io/suchirg.github.io-home/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
