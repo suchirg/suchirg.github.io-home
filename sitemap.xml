@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://suchirg.github.io/post/hello/</loc>
+    <loc>https://suchirg.github.io/suchirg.github.io-home/post/hello/</loc>
     <lastmod>2021-04-15T14:41:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://suchirg.github.io/post/</loc>
-    <lastmod>2021-04-15T14:41:15-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://suchirg.github.io/</loc>
+    <loc>https://suchirg.github.io/suchirg.github.io-home/post/</loc>
     <lastmod>2021-04-15T14:41:15-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://suchirg.github.io/tags/</loc>
+    <loc>https://suchirg.github.io/suchirg.github.io-home/</loc>
+    <lastmod>2021-04-15T14:41:15-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://suchirg.github.io/tutorials/</loc>
+    <loc>https://suchirg.github.io/suchirg.github.io-home/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://suchirg.github.io/suchirg.github.io-home/tutorials/</loc>
     <priority>0</priority>
   </url>
   
